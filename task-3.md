@@ -10,11 +10,11 @@
 **Результат** </br>
 *Блок-схема всех возможных значений*
 
-![<img src="img/block.png" width="800"/>](img/block.jpg "Приложение2")
+![<img src="img/block.png" width="800"/>]
 
 *Файл для генерации всех значений в PICT*
 
-![<img src="img/anketa.png" width="800"/>](img/anketa.jpg "Приложение3")
+![<img src="img/anketa.png" width="800"/>]
 
 ***
 
